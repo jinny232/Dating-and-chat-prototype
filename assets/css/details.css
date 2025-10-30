@@ -1,0 +1,110 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.de-con {
+  margin-top: 30px;
+}
+
+.portfolio-title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.portfolio-details-slider {
+  margin-bottom: 20px;
+}
+
+.portfolio-details-slider .swiper-wrapper {
+  display: flex;
+}
+
+.portfolio-details-slider .swiper-slide {
+  flex-shrink: 0;
+  width: 100%;
+}
+
+.portfolio-details-slider .swiper-slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-info {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-info h3 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.portfolio-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.portfolio-info ul li {
+  margin-bottom: 10px;
+}
+
+.portfolio-info ul li strong {
+  font-weight: bold;
+}
+
+.credits {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #777;
+}
+
+.credits a {
+  color: #777;
+}
+
+/* Responsive Styles */
+@media (max-width: 992px) {
+  .portfolio-details-slider .swiper-slide img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .portfolio-info {
+    padding: 15px;
+  }
+
+  .portfolio-info h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .portfolio-info ul li {
+    margin-bottom: 8px;
+  }
+
+  .credits {
+    font-size: 12px;
+  }
+}
