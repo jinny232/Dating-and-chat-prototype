@@ -1,7 +1,4 @@
-# Chat Application using PHP with MySQL & Ajax
-
-version: 1.0.0
-
+# Soulmate Sync using PHP with MySQL & Ajax
 ## TECHNOLOGIES
 
 1. PHP
@@ -11,10 +8,9 @@ version: 1.0.0
 1. HTML
 1. CSS
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/JLnsWkQ-iB8)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+#Developed by 
+1.Ain Jinn Moe
+2.Moe Satt Pwint
+3.Sit Naing Soe
+4.Thu Htoo San
+5.May Yadanar Bo
