@@ -8,9 +8,10 @@
 1. HTML
 1. CSS
 
-#Developed by 
-1.Ain Jinn Moe
-2.Moe Satt Pwint
-3.Sit Naing Soe
-4.Thu Htoo San
-5.May Yadanar Bo
+**#Developed by**
+
+1. Ain Jinn Moe  
+2. Moe Satt Pwint  
+3. Sit Naing Soe  
+4. Thu Htoo San  
+5. May Yadanar Bo  
